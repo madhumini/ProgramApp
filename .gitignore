@@ -1,0 +1,34 @@
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.sln.cache
+
+# JetBrains Rider files
+.idea/
+
+# Build folders
+/bin/
+/obj/
+
+# NuGet packages
+/packages/
+*.nupkg
+
+# Visual Studio Code settings
+.vscode/
+
+# Temporary files
+*.log
+*.dll
+*.exe
+*.pdb
+*.cache
+
+# Environment-specific files
+appsettings.json
+.env
+
+# Ignore user-specific files
+*.DS_Store
+Thumbs.db
